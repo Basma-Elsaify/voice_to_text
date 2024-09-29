@@ -10,3 +10,7 @@ streamlit run voice.py
 ```bash
 streamlit run whisper.py
 ```
+
+```bash
+streamlit run AzureCogSpeech.py
+```

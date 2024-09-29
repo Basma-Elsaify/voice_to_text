@@ -1,6 +1,8 @@
 # voice_to_text
-voice to text streamlit application, using openAI whisper and speech_recognition
-To start streamlit application
+There are 2 applications, once using speech_recognition and the other using OpenAI whisper.
+
+To start streamlit application:
+
 ```bash
 streamlit run voice.py
 ```
